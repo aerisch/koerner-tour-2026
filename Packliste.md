@@ -1,6 +1,6 @@
 # Packliste Rennsteig — 3 Tage, Pensionen
 
-> [!INFO]
+> [!NOTE]
 > **Fett**: unverzichtbar
 > "optional": für absoluten Minimalismus streichbar
 
