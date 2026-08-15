@@ -78,4 +78,4 @@ Terrain: wellig überwiegend abfallend
 Untergrund: Asphalt, schneller Gravel
 
 # Packlist
-(hier)[Packliste.md]
+[hier](./Packliste.md)
