@@ -59,6 +59,7 @@
 - **Handy + Ladekabel**
 - **Radcomputer + Kabel**
 - **Ladegerät**
+- **Ohrstöpsel**
 - optional: Powerbank (bei Pensionsübernachtung überflüssig!)
 - optional: kleines Rücklicht (sinnvoll bei später Ankunft)
 
@@ -90,6 +91,7 @@
 
 ### Sonstiges
 
+- **Fahrradschloss**
 - **Kleines Erste-Hilfe-Set** (Pflaster, Wundschnellverband, Desinfektion, Schmerztabletten)
 - optional: 1 Mehrfach-USB-Ladegerät für die ganze Gruppe (statt drei einzelne)
 
