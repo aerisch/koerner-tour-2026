@@ -72,6 +72,7 @@
 ## Erik als Mechaniker packt ein
 
 - Taschenmesser
+- Skatkarten
 
 ### Werkzeug
 
