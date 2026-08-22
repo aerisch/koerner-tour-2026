@@ -35,7 +35,8 @@
 - **1× Ersatztrikot**
 - **1 Paar Ersatzsocken**
 - **Regen-/Windjacke** (packbar)
-- optional: Armlinge / Beinlinge — nur bei kühler Vorhersage
+- optional: Armlinge / Beinlinge — bei kühler Vorhersage
+- optional: Schlauchschaal (Buff) - bei kühler Vorhersage
 - optional: 2. Ersatztrikot
 
 ### Zivil (Pension / Abend)
@@ -69,6 +70,8 @@
 # Packliste für die Gruppe 
 
 ## Erik als Mechaniker packt ein
+
+- Taschenmesser
 
 ### Werkzeug
 
