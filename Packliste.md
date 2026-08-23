@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > **fett** - unverzichtbar
+> 
 > "optional" - streichbar
 
 ---
